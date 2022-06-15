@@ -1,7 +1,7 @@
 ### What's good everyone 👋
 
-- 🔭 I’m currently working on a friendship app with some of my friends!
-- 🌱 I’m currently learning swift and R
+- 🔭 I’m currently working on a friendship app with some of my friends and assisting with research at the Kellogg School of Management!
+- 🌱 I’m currently honing my skills in swift and data analysis
 <!--
 **adamc951/adamc951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
